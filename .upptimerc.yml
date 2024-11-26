@@ -1,5 +1,5 @@
-owner: VicmapSpatialServices
-repo: vicmap-upptime
+owner: Niko361
+repo: upptime-test
 
 sites:
   - name: AGOL-Vicmap_Admin
@@ -20,7 +20,7 @@ sites:
     maxResponseTime: 4000
 
 status-website:
-  baseUrl: /vicmap-uptime
+  baseUrl: /upptime-test
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: Vicmap service uptime monitoring
